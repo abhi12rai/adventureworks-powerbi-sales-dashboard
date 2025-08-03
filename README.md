@@ -43,7 +43,7 @@ I played the role of a **Business Intelligence Analyst** at AdventureWorks Cycle
 
 ## 📸 Dashboard Preview
 
-![KPI Dashboard](images)
+![KPI Dashboard](image/Cover_image_AdventureWork_Dashboard.png)
 
 > *(This is a snapshot of the interactive Power BI dashboard available in the `.pbix` file)*
 
