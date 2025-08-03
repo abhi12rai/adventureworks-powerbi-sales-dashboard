@@ -7,8 +7,7 @@ This repository contains my end-to-end Power BI project built during the **Micro
 ## 📊 Project Overview
 
 **Role:** Business Intelligence Analyst  
-**Company:** AdventureWorks Cycles (fictional manufacturing company)  
-**Timeline:** 2015–2017
+**Company:** AdventureWorks Cycles (fictional manufacturing company) 
 
 The goal of this project was to simulate a real-world BI analyst role by transforming raw sales and customer data into a fully interactive and insightful dashboard that helps monitor KPIs, explore sales trends, identify regional performance, and analyze customer behavior.
 
