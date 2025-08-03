@@ -9,8 +9,7 @@ I played the role of a **Business Intelligence Analyst** at AdventureWorks Cycle
 ## 📁 Repository Contents
 📂 adventureworks-powerbi-sales-dashboard/
 ├── AdventureWorksNew.pbix # Final Power BI report
-├── images/
-│ └── kpi-dashboard.png # Dashboard cover image
+├── images/ # Dashboard cover image
 └── README.md # Project documentation
 
 ---
@@ -44,7 +43,7 @@ I played the role of a **Business Intelligence Analyst** at AdventureWorks Cycle
 
 ## 📸 Dashboard Preview
 
-![KPI Dashboard](images/kpi-dashboard.png)
+![KPI Dashboard](images)
 
 > *(This is a snapshot of the interactive Power BI dashboard available in the `.pbix` file)*
 
@@ -61,13 +60,7 @@ I played the role of a **Business Intelligence Analyst** at AdventureWorks Cycle
 ## 📬 Feedback & Collaboration
 
 I’d love to hear your thoughts or feedback!  
-Feel free to fork this repo, explore the `.pbix` report, or connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile)
-
----
-
-## 🔗 Mentorship Credits
-
-Grateful to [Chris Dutton](https://www.linkedin.com/in/chris-dutton/) and [Aaron Parry](https://www.linkedin.com/in/aaron-parry/) for their expert guidance throughout this learning journey.
+Feel free to fork this repo, explore the `.pbix` report, or connect with me on [LinkedIn](linkedin.com/in/abhishek-rai-5054001b7)
 
 ---
 
