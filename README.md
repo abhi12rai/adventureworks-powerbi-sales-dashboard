@@ -18,7 +18,6 @@ I played the role of a **Business Intelligence Analyst** at AdventureWorks Cycle
 ## 📊 Project Highlights
 
 🔧 **Tools Used:** Power BI • Power Query • DAX  
-📅 **Timeframe Analyzed:** 2015–2017  
 🎯 **Focus Areas:** Sales trends, returns, customer segmentation, top products, regional insights
 
 ---
