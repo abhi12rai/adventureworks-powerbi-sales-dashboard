@@ -1,68 +1,106 @@
 # 🚴‍♂️ AdventureWorks Power BI Sales & Customer Insights Dashboard
 
-This repository contains my end-to-end Power BI project built during the **Microsoft Power BI Desktop for Business Intelligence** course, under the mentorship of [Chris Dutton](https://www.linkedin.com/in/chris-dutton/) and [Aaron Parry](https://www.linkedin.com/in/aaron-parry/).
+This repository contains a full BI workflow project built using **Power BI Desktop**, as part of the **Microsoft Power BI Desktop for Business Intelligence** course, guided by [Chris Dutton](https://www.linkedin.com/in/chris-dutton/) and [Aaron Parry](https://www.linkedin.com/in/aaron-parry/).
 
+I played the role of a **Business Intelligence Analyst** at AdventureWorks Cycles, a fictional manufacturing company, and developed a dynamic, interactive dashboard to analyze sales and customer trends from 2015 to 2017.
+
+---
+
+## 📁 Project Files
+
+📂 adventureworks-powerbi-sales-dashboard/
+├── data/
+│ ├── Customers.csv
+│ ├── Products.csv
+│ ├── Sales.csv
+│ ├── Returns.csv
+│ └── [Other .csv files as applicable]
+├── images/
+│ └── kpi-dashboard.png # Dashboard screenshot
+├── AdventureWorksNew.pbix # Final Power BI report
+└── README.md # Project documentation
 ---
 
 ## 📊 Project Overview
 
-**Role:** Business Intelligence Analyst  
-**Company:** AdventureWorks Cycles (fictional manufacturing company) 
-
-The goal of this project was to simulate a real-world BI analyst role by transforming raw sales and customer data into a fully interactive and insightful dashboard that helps monitor KPIs, explore sales trends, identify regional performance, and analyze customer behavior.
+This project covers the **end-to-end BI process**:  
+From connecting & cleaning raw CSV files to creating a relational data model, applying advanced DAX calculations, and building an interactive sales dashboard.
 
 ---
 
 ## 🧠 Skills & Tools Applied
 
-- **Power BI Desktop**
-- **Power Query (M Language)**
-- **DAX (Data Analysis Expressions)**
-- **Data Modeling (Star Schema, Relationships)**
-- **Data Visualization & UX Design**
+- Power BI Desktop
+- Power Query (M language)
+- DAX (Data Analysis Expressions)
+- Data Modeling (Star Schema)
+- Interactive Dashboards & Visual Storytelling
 
 ---
 
 ## 🛠️ Key Features
 
-### ✅ Data Preparation (Power Query)
-- Connected multiple sources
-- Cleaned and transformed data using pivot, unpivot, conditional columns, grouping, text/date tools
-- Created rolling calendar and parameterized queries
+### 🔄 Data Preparation
+- Connected multiple CSV files using Power Query
+- Cleaned & shaped data using:
+  - Pivot/Unpivot, conditional columns, rolling calendars
+  - Grouping, filtering, merging & appending queries
 
-### ✅ Data Modeling
-- Built a star schema with fact and dimension tables
-- Defined hierarchies, primary & foreign keys
-- Managed active/inactive relationships and cardinality
-- Used normalization techniques for an optimized model
+### 🧩 Data Modeling
+- Built a star schema with fact & dimension tables
+- Defined relationships using primary/foreign keys
+- Created hierarchies and normalized tables
+- Applied proper data formats and categories
 
-### ✅ DAX Measures & Calculations
-- Created explicit measures using:
+### 🧮 DAX Measures
+- Created custom KPIs using:
   - `CALCULATE`, `FILTER`, `ALL`, `SWITCH`
   - Iterators like `SUMX`, `AVERAGEX`
   - Time intelligence: YTD, MTD, QoQ, LY, YoY
 
-### ✅ Dashboard Design
-- Built a professional dashboard to analyze:
-  - Total Sales, Orders, Returns, and Customers
-  - Year-over-Year Trends and Forecasts
-  - Top Products and Categories
-  - High-Value Customers by Region
-- Added interactivity using:
-  - Slicers, drillthroughs, bookmarks, tooltips, and dynamic filters
-  - Mobile-optimized layout
-  - Role-level security (RLS) for user-based access control
+### 📈 Dashboard Design
+- Visualized key metrics: Sales, Orders, Returns, Customers
+- Trend lines for YoY sales performance
+- Regional and product-level analysis
+- High-value customer identification
+- Used bookmarks, drillthrough, slicers & tooltips
+- Mobile-friendly layout
+- Role-Level Security (RLS) for access control
 
 ---
 
-## 📸 Dashboard Screenshots
+## 📸 Dashboard Preview
 
-> *(Add your screenshots here as images or GIFs)*  
-> Example:
-> ![Dashboard Overview](images/dashboard-overview.png)
+![KPI Dashboard](images/kpi-dashboard.png)
+
+> *(Add more screenshots if needed, e.g., trend views, filters, drillthrough pages)*
 
 ---
 
-## 📁 File Structure
+## 🎯 Learning Outcomes
 
+- Mastered the complete Power BI workflow — from data extraction to publishing dashboards  
+- Gained confidence in writing DAX for dynamic, context-aware metrics  
+- Learned to design dashboards that turn raw data into actionable business insights  
+
+---
+
+## 📬 Feedback & Collaboration
+
+I welcome feedback, suggestions, and collaboration!  
+Feel free to fork the repo, raise issues, or connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile)
+
+---
+
+## 🔗 Mentorship Credits
+
+Grateful for the guidance of  
+[Chris Dutton](https://www.linkedin.com/in/chris-dutton/) & [Aaron Parry](https://www.linkedin.com/in/aaron-parry/)  
+throughout this hands-on learning journey.
+
+---
+
+## 🏷️ Tags
+
+`Power BI` `DAX` `Data Modeling` `Sales Dashboard` `Business Intelligence` `Power Query` `AdventureWorks` `Chris Dutton` `Interactive Reports`
 
