@@ -6,14 +6,6 @@ I played the role of a **Business Intelligence Analyst** at AdventureWorks Cycle
 
 ---
 
-## 📁 Repository Contents
-📂 adventureworks-powerbi-sales-dashboard/
-├── AdventureWorksNew.pbix # Final Power BI report
-├── images/ # Dashboard cover image
-└── README.md # Project documentation
-
----
-
 ## 📊 Project Highlights
 
 🔧 **Tools Used:** Power BI • Power Query • DAX  
